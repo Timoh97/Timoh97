@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Timothy Mugendi;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Timothy+Mugendi;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi I'm Timoh.👋
 - 🔭 I’m am currently enrolled in: ALX (Holberton School Curriculum) & Powerlearn
 - 🌱 I’m currently learning: C programming
