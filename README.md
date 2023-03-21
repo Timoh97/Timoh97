@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about: Software Development
 - 📫 How to reach me: timohmugendi@gmail.com
-- ⚡ Portfolia: I am constantly working on projects and building my ![portfolio](https://portf-task.vercel.app/)
+- ⚡ Portfolio: I am constantly working on projects and building my portfolio: ![https://portf-task.vercel.app/]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/timothy-mugendi-489ab4122/) 
 
