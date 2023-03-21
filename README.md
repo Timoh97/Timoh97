@@ -1,4 +1,5 @@
-### Hi there 👋
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Timoh97;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# Hi I'm Timoh.👋
 - 🔭 I’m am currently enrolled in: ALX (Holberton School Curriculum) & Powerlearn
 - 🌱 I’m currently learning: C programming
 - 👯 I’m looking to collaborate on any open source project
