@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: ALX (Holberton School Curriculum)
+- 🔭 I’m am currently enrolled in: ALX (Holberton School Curriculum) & Powerlearn
 - 🌱 I’m currently learning: C programming
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about: Software Development
